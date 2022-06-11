@@ -14,7 +14,7 @@
 <body>
     <header>
         <div id="header" class="razdvojeno">
-            <a href="index.php"><h1 id="logo">INTERNET PRODAVNICA</h1></a>
+            <a href="index.php"><h1 id="logo">NETSTORE</h1></a>
             <div id="nav_grid">
             <a href="korpa.php" class="inline" id="korpa_icon">KORPA (<?php echo broj_proizvoda() ?>) </a>
             <form action="index.php" method="post" id="sbar">
